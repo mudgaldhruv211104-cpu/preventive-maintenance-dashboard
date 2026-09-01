@@ -71,7 +71,7 @@ This dashboard provides a centralized view of preventive maintenance activities 
 ## Project Files
 
 - **Excel Dashboard:** [Preventive Maintenance.xlsx](./Preventive%20Maintenance.xlsx)
-- **Dashboard Preview:** [Preventive Maintenance Dashboard Image.jpeg](./Preventive%20Maintenance%20Dashboard%20Image.jpeg)
+- **Dashboard Preview:** [Preventive Maintenance Dashboard Image.jpeg](./Preveventive%20Maintenance%20Dashboard%20Image.jpeg)
 
 ## Dashboard Structure
 
