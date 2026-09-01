@@ -4,7 +4,7 @@ A maintenance analytics dashboard designed to monitor preventive maintenance per
 
 ## Dashboard Preview
 
-![Preventive Maintenance Dashboard](./Preventive%20Maintenance%20Dashboard%20Image.jpeg)
+![Preventive Maintenance Dashboard](./Preveventive%20Maintenance%20Dashboard%20Image.jpeg)
 
 ## Project Overview
 
